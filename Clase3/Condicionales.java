@@ -1,7 +1,9 @@
+import java.util.Scanner;
+
 public class Condicionales {
-    
+
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner (System.in);
         // Leer dos números y deducir si están en orden creciente. a <= b
         int a = 0, b = 0;
         System.out.print("Digite a: "); //Solicitamos por teclado el valor de 'a'
