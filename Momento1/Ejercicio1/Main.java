@@ -10,7 +10,7 @@ public class Main {
         cuenta1.depositar(500);
         cuenta1.retirar(300);
 
-        System.out.println("Saldo final: " + cuenta1.consultarSaldo());
+        System.out.println("Saldo Total: " + cuenta1.consultarSaldo());
     }
 
 }

@@ -4,7 +4,7 @@ public class Main {
 
      public static void main(String[] args) {
 
-        Perfume perfume1 = new Perfume("Aqua", "Dior", 100, 300);
+        Perfume perfume1 = new Perfume("Agua", "Cristal", 100, 10);
 
         perfume1.mostrarDatos();
 

@@ -2,7 +2,7 @@ package Ejercicio4;
 
 public class Perfume {
 
-     private String nombre;
+    private String nombre;
     private String marca;
     private double capacidad;
     private double precio;

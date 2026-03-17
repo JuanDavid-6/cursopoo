@@ -1,4 +1,4 @@
-package Clase3.Ejercicios.pagi157;
+package Ejercicios.pagi157;
 
 import java.util.Scanner;
 

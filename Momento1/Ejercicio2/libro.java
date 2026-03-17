@@ -30,7 +30,7 @@ public class libro {
             disponible = true;
             System.out.println("El libro fue devuelto.");
         } else {
-            System.out.println("El libro ya estaba disponible.");
+            System.out.println("El libro ya esta disponible.");
         }
     }
 
